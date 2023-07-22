@@ -1,6 +1,23 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build with ReactJS and  Material UI
+
+# Demo Images
+ ## Home 
+ ![home](https://github.com/hemantsai17/Recipe_app/assets/44155019/1577f4b0-3078-496d-a529-a208d8b862c1)
+ ## Signup 
+ ![singup](https://github.com/hemantsai17/Recipe_app/assets/44155019/77bcc1f7-fc86-4bb2-bbb5-2c68895a689d)
+ ## Login
+ ![login](https://github.com/hemantsai17/Recipe_app/assets/44155019/ad76cfec-1fac-455c-b333-e27894bdfd21)
+ ## Profile
+ ![profile](https://github.com/hemantsai17/Recipe_app/assets/44155019/bfbef9e6-c272-483c-b113-0f09602ea833)
+
+
+ # Brief Report
+ The Food Recipe App is a mobile application designed to provide users with a diverse collection of recipes, culinary tips, and cooking guides. The app aims to be user-friendly, visually appealing, and highly functional to cater to the needs of amateur cooks and seasoned chefs alike. This report provides an overview of the architecture and design principles employed in the development of the Food Recipe App
+ ## Architecture 
+ The Food Recipe App is built on a client-server architecture, where the client represents the mobile application running on users' devices, and the server hosts the application's backend and database.
+ ### Client-Side Components:
 
 ## Available Scripts
 
