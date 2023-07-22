@@ -14,7 +14,7 @@ This project was build with ReactJS and  Material UI
 
 
  # Brief Report
- The Food Recipe App is a mobile application designed to provide users with a diverse collection of recipes, culinary tips, and cooking guides. The app aims to be user-friendly, visually appealing, and highly functional to cater to the needs of amateur cooks and seasoned chefs alike. This report provides an overview of the architecture and design principles employed in the development of the Food Recipe App
+ The Food Recipe App is a application designed to provide users with a diverse collection of recipes, culinary tips, and cooking guides. The app aims to be user-friendly, visually appealing, and highly functional to cater to the needs of amateur cooks and seasoned chefs alike. This report provides an overview of the architecture and design principles employed in the development of the Food Recipe App
  ## Architecture 
  The Food Recipe App is built on a client-server architecture, where the client represents the mobile application running on users' devices, and the server hosts the application's backend and database.
  ### Client-Side Components:
