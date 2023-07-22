@@ -18,7 +18,18 @@ This project was build with ReactJS and  Material UI
  ## Architecture 
  The Food Recipe App is built on a client-server architecture, where the client represents the mobile application running on users' devices, and the server hosts the application's backend and database.
  ### Client-Side Components:
+ User Interface (UI): The app's UI is designed with a focus on simplicity, intuitive navigation, and engaging visuals. It follows modern design guidelines and responsive layouts to ensure a seamless user experience across different devices.
 
+Frontend Framework: The frontend is built using a popular framework like React Native or Flutter, allowing developers to write code once and deploy it for both iOS and Android platforms.
+
+Authentication: The app incorporates secure authentication mechanisms, such as OAuth or JSON Web Tokens (JWT), to ensure that only authorized users can access their accounts and personalized content.
+
+API Request Handling: The client communicates with the server through well-defined API endpoints to fetch recipes, search for specific dishes, and perform other necessary actions.
+
+
+### Design:
+   The design of the Food Recipe App revolves around user experience, content presentation, and accessibility. It is vital to create a visually appealing and intuitive interface to keep users engaged and facilitate easy navigation. 
+   
 ## Available Scripts
 
 In the project directory, you can run:
