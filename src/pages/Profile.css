@@ -1,0 +1,34 @@
+/* Style your profile page here */
+.profile-container {
+    /* Add your styles here */
+}
+
+.profile-header {
+    padding: "2em";
+    /* Add your styles here */
+}
+
+.profile-avatar img {
+    /* Add your styles here */
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile-info {
+  
+}
+
+.profile-stats {
+    /* Add your styles here */
+    display: flex;
+    justify-content: space-around;
+}
+
+.stat {
+    /* Add your styles here */
+    text-align: center;
+}
+
+/* Add more CSS for different sections of the profile page */

@@ -1,0 +1,56 @@
+/* LoginPage.css */
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+    flex-direction: column;
+}
+
+form {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    width: auto;
+}
+
+h2 {
+    width: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    display: block;
+    border-radius: "20%";
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type='text'],
+input[type='password'] {
+    width: 100%;
+    padding-left: "1em";
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 15px;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
